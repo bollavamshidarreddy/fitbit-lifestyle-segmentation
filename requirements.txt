@@ -1,0 +1,10 @@
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+sqlalchemy
+pymysql
+
+# Used to load environment variables securely from .env file
+python-dotenv
